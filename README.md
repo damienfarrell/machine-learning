@@ -2,6 +2,8 @@
 
 ---
 
+`audio_analysis.ipynb` contains the project.
+
 ## **Objective**
 
 This project aims to process audio files of interviews or debates and extract valuable information. The system:
