@@ -1,6 +1,8 @@
+# **Machine Learning: Project Part 1 - Audio Analysis**
+
 ---
 
-## Repository Overview
+## **Objective**
 
 This project aims to process audio files of interviews or debates and extract valuable information. The system:
 - Identifies who speaks and when (speaker diarisation).
@@ -31,7 +33,7 @@ This project aims to process audio files of interviews or debates and extract va
 ## Usage
 
 1. **Load Your Audio File**  
-   - Place your `.wav` or `.mp3` file in the designated input folder (e.g., `./audio_inputs`).
+   - Place your `.wav` or `.mp3` file in the designated input folder (e.g., `./audio`).
 
 2. **Open the Jupyter Notebook**  
    - From your project directory, launch Jupyter Notebook:
